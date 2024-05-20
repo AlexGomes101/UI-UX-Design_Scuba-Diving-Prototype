@@ -19,7 +19,7 @@ Here I have built a prototype for amateur scuba divers and snorkelers. Users wil
 
 ![4](https://github.com/AlexGomes101/UI-UX-Design_Scuba-Diving-Prototype/assets/86958690/f725d9c5-4a52-48a2-ba39-75b47b5a022a)
 
-##Login Successfully Message 
+## Login Successfully Message 
 
 ![5](https://github.com/AlexGomes101/UI-UX-Design_Scuba-Diving-Prototype/assets/86958690/871f0fa3-6b32-42d9-a6b1-a9cd227c65c1)
 
